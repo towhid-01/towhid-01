@@ -67,7 +67,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/towhid-01/towhid-01/output/snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/towhid-01/towhid-01/output/snake.svg" />
 </picture>
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/towhid-01/count.svg?"  />
