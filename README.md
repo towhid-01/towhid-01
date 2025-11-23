@@ -76,27 +76,25 @@ Competed in national programming contests and participated in international cont
 
 <div align="center">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/towhid-sarker/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<a href="https://www.linkedin.com/in/towhid-sarker/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" />
+</a>
 
-  <!-- Discord -->
-  <a href="https://discord.com/users/427719700731133952" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
-  </a>
 
-  <!-- Gmail -->
-  <a href="mailto:towhid.sarker3@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
+<a href="https://discord.com/users/427719700731133952" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
+
+<a href="mailto:towhid.sarker3@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="35" />
+</a>
+
 
 </div>
 
 
 ---
-
-### Snake Animation (✔ FIXED – No Unsupported Image Error)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/towhid-01/towhid-01/output/github-snake-dark.svg" />
