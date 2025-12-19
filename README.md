@@ -1,6 +1,6 @@
 ![MasterHead](/gifs/gifs.gif)
 
-<h2 align="center">Hi there! 👋 I'm Towhid Sarker<br>🚀 Game Developer | 💻 Competitive Programmer</h2>
+<h2 align="center">Hi there! I'm Towhid Sarker<br>🚀 Game Developer | 💻 Competitive Programmer</h2>
 
 <h4 align="center">
 I love crafting immersive games using Unity & C#, blending creativity with logic.  
